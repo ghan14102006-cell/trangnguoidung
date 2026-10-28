@@ -1,0 +1,6 @@
+{
+  "name": "Blossom Garden - Shop Hoa Trực Tuyến Bình Thạnh",
+  "description": "Blossom Garden - Shop hoa trực tuyến tại Bình Thạnh, TP.HCM. Đặt hoa tươi thiết kế, hoa lụa cao cấp giao hỏa tốc với tính năng lật thiệp tùy chỉnh và thanh toán VietQR tiện lợi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
